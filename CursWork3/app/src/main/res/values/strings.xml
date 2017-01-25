@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CursWork3</string>
+    <string name="nameButton2">Показать расписание</string>
+    <string name="nameButton1">Добавить список дел</string>
+    <string name="title_activity_show">show</string>
+
+</resources>
