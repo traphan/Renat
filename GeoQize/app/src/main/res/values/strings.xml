@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQize</string>
+    <string name="question1">Turkeq get moooney</string>
+    <string name="question2">sjfidi isfik ksk</string>
+    <string name="question3">jsiei kieijj iakjdjj kk oa</string>
+    <string name="question4">sujrij  jisijdi sjij wji</string>
+    <string name="trybutton">Try</string>
+    <string name="falsebutton">False</string>
+    <string name="TostAnswerTry">Try</string>
+    <string name="TostAnswerFalse">False</string>
+    <string name="waring_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong</string>
+</resources>
